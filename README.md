@@ -136,3 +136,51 @@ Fokus Industri:
 
 Kesimpulan Cepat (Quick Takeaway):
 Pasar kerja sangat didorong oleh kebutuhan akan ahli yang mahir dalam Python dan SQL, yang didukung oleh keahlian di bidang Cloud (AWS/Azure). Sebagian besar permintaan terpusat pada kandidat dengan pengalaman Menengah (Mid-Senior) yang dapat bekerja dengan infrastruktur data yang kompleks.
+
+# 3 Membangun Dashboard
+
+<img width="764" height="435" alt="Screenshot 2025-12-01 144804" src="https://github.com/user-attachments/assets/69c80d6a-ece3-45a3-ad7c-90906977d862" />
+
+Jobs Overview (Ringkasan Pekerjaan)
+Bagian ini memberikan gambaran umum mengenai distribusi peran pekerjaan dan persyaratan pengalaman.
+
+Visualisasi Utama: Treemap
+
+Tujuan: Menunjukkan volume relatif lowongan pekerjaan per Job Title (Data Engineer, Data Scientist, Data Analyst, Business Analyst, dll.) dan keahlian yang paling dominan dalam peran tersebut (diwakili oleh ukuran kotak).
+
+Insight Cepat: Data Engineer dan Data Scientist adalah peran dengan volume postingan tertinggi. Keahlian seperti AWS, Cloud, Python, SQL, dan Azure memiliki representasi visual yang besar di dalam Treemap, menggarisbawahi relevansinya.
+Metrik Kunci & Tren Pengalaman:
+Posting Count Total: Terlihat total 9556 lowongan pekerjaan yang dianalisis.
+- Average of Years of Experience: Nilai rata-rata pengalaman yang dibutuhkan secara keseluruhan adalah 4.49 tahun.
+- Bar Chart (Average Years by Job Position Level): Menunjukkan hierarki pengalaman yang jelas:
+Executive: Rata-rata 14 tahun.
+Director: Rata-rata 9 tahun.
+Mid-Senior Level: Rata-rata 5 tahun.
+Entry Level: Rata-rata 2 tahun.
+Area Chart (Count of Job Posting ID by Year): Menunjukkan pertumbuhan lowongan pekerjaan dari 2017 ke 2021, dengan peningkatan signifikan pada posisi Associate dan Mid-Senior Level di tahun-tahun akhir.
+
+<img width="767" height="439" alt="Screenshot 2025-12-01 144953" src="https://github.com/user-attachments/assets/0c61ba3f-f0b9-425c-a88a-7480ce4a4e0c" />
+
+Skills Overview (Ringkasan Keahlian)
+Bagian ini berfokus pada permintaan keahlian, baik dari segi volume absolut maupun tren dari waktu ke waktu.
+
+Metrik Kunci:
+- Distinct Count of Job Skills: 166 keahlian unik yang teridentifikasi.
+- Job Posting With Skills: Total 8561 postingan yang mengandung skill teridentifikasi.
+
+Visualisasi Utama: Bar Chart (Count of Job Skills)
+Tujuan: Menampilkan keahlian yang paling banyak diminta (Top N).
+Insight Cepat: Python dan SQL menduduki puncak daftar, diikuti oleh keahlian Cloud seperti AWS dan Azure, menegaskan temuan EDA sebelumnya. Keahlian lain seperti Machine Learning, ETL, Programming, dan alat seperti Tableau/Excel juga dicantumkan.
+
+Visualisasi Tren: Line Chart (% Skill in Posting by Year)
+Tujuan: Melacak persentase kemunculan keahlian utama dari 2018 hingga 2021.
+Insight Cepat: Tren SQL dan Python stabil di atas 45%. Keahlian Cloud (AWS, Azure, Cloud) stabil di kisaran 30-40%.
+
+<img width="765" height="439" alt="Screenshot 2025-12-01 145133" src="https://github.com/user-attachments/assets/b2630633-ef0a-480d-bbbd-3cd54c79aa04" />
+
+Company Overview (Ringkasan Perusahaan)
+Bagian ini memberikan konteks tentang di mana permintaan pekerjaan berada, berdasarkan industri dan ukuran perusahaan.
+Visualisasi Utama: Bubble Chart (Average of Years of Experience by Company Industry)
+Tujuan: Membandingkan tingkat pengalaman yang dibutuhkan (sumbu Y) di berbagai industri (sumbu X).
+Insight Cepat: Sebagian besar industri (seperti Computer Services, Financial Services, Information Technology, Internet) menunjukkan kebutuhan yang dominan pada tingkat Mid-Senior Level dan Associate (rata-rata 5-7 tahun pengalaman). Tingkat Executive/Director membutuhkan pengalaman yang jauh lebih tinggi (15+ tahun).
+Filter Interaktif: Dashboard dilengkapi dengan berbagai slicer (Job Title, Job Position Level, Company Industry, Company Name, Company Size) untuk memungkinkan eksplorasi data secara real-time dan mendalam.
