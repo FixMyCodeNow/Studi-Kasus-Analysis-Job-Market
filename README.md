@@ -14,3 +14,5 @@ Tahapan Analisis Data :
 3. Analisis dan Visualisasi Data
 4. Pembuatan Dashboard
 5. Komunikasi Insight
+
+# 1. Menganalisis Eksplanatori
