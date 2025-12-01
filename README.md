@@ -43,6 +43,7 @@ Interpretasi:
 Temuan ini menunjukkan bahwa kebutuhan industri saat ini sangat tinggi untuk posisi Data Engineer, menandakan bahwa perusahaan lebih fokus pada pembangunan infrastruktur data, data pipeline, dan manajemen data berskala besar. Sementara itu, data scientist dan data analyst tetap memiliki permintaan signifikan, tetapi tidak setinggi kebutuhan engineer.
 
 <img width="766" height="437" alt="Screenshot 2025-12-01 140002" src="https://github.com/user-attachments/assets/e759dc2f-db33-4956-bfd9-6d17b5d9d978" />
+
 Tren Postingan Pekerjaan berdasarkan Level Posisi (2017–2021)
 
 Grafik area menunjukkan perkembangan jumlah postingan dari tahun ke tahun untuk berbagai level:
