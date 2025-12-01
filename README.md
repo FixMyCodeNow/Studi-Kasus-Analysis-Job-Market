@@ -31,6 +31,7 @@ Interpretasi:
 Pengalaman kerja meningkat secara logis sesuai dengan jenjang posisi. Peran Executive dan Director membutuhkan pengalaman yang sangat tinggi, sedangkan Associate dan Entry menawarkan akses lebih mudah bagi kandidat baru. Data ini bermanfaat untuk kandidat memahami ekspektasi perusahaan pada setiap level senioritas.
 
 <img width="766" height="438" alt="Screenshot 2025-12-01 140108" src="https://github.com/user-attachments/assets/dafbb70c-34d8-4df1-99b3-d4b0ad41f9ba" />
+
 Distribusi Job Posting berdasarkan Job Title
 Visual pertama memberikan gambaran jelas tentang jumlah postingan untuk tiap posisi dalam domain data.
 Insight utama:
@@ -57,7 +58,8 @@ Interpretasi:
 Lonjakan di tahun 2020–2021 berpotensi dipengaruhi oleh peningkatan transformasi digital pada masa pandemi, di mana kebutuhan akan data profesional meningkat drastis. Dominasi level mid-senior menunjukkan bahwa perusahaan cenderung mencari kandidat berpengalaman untuk peran-peran strategis.
 
 <img width="764" height="431" alt="Screenshot 2025-12-01 141341" src="https://github.com/user-attachments/assets/5a32cc08-62b3-4aef-a68a-c30758665c9d" />
-4. Hubungan Pengalaman Kerja dan Rata-rata Gaji (per Job Title)
+
+Hubungan Pengalaman Kerja dan Rata-rata Gaji (per Job Title)
 Grafik ini menganalisis bagaimana rata-rata gaji meningkat seiring dengan bertambahnya years of experience untuk setiap job title dalam domain data.
 Insight utama dari grafik:
   1. Semua peran menunjukkan tren kenaikan gaji seiring bertambahnya pengalaman
