@@ -180,7 +180,10 @@ Insight Cepat: Tren SQL dan Python stabil di atas 45%. Keahlian Cloud (AWS, Azur
 
 Company Overview (Ringkasan Perusahaan)
 Bagian ini memberikan konteks tentang di mana permintaan pekerjaan berada, berdasarkan industri dan ukuran perusahaan.
+
 Visualisasi Utama: Bubble Chart (Average of Years of Experience by Company Industry)
+
 Tujuan: Membandingkan tingkat pengalaman yang dibutuhkan (sumbu Y) di berbagai industri (sumbu X).
+
 Insight Cepat: Sebagian besar industri (seperti Computer Services, Financial Services, Information Technology, Internet) menunjukkan kebutuhan yang dominan pada tingkat Mid-Senior Level dan Associate (rata-rata 5-7 tahun pengalaman). Tingkat Executive/Director membutuhkan pengalaman yang jauh lebih tinggi (15+ tahun).
 Filter Interaktif: Dashboard dilengkapi dengan berbagai slicer (Job Title, Job Position Level, Company Industry, Company Name, Company Size) untuk memungkinkan eksplorasi data secara real-time dan mendalam.
